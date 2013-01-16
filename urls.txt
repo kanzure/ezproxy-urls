@@ -129,3 +129,4 @@ http://ezproxy.library.wwu.edu/login?url=$@
 http://ezproxy.wscal.edu/login?url=$@
 http://libproxy.wlu.ca/login?url=$@
 http://ezproxy.library.yorku.ca/login?url=$@
+http://proxy.lib.pdx.edu/login?url=$@
