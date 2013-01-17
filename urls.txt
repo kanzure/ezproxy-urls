@@ -808,3 +808,4 @@ http://ezproxy.bntu.by:2048/login?url=$@
 http://ezproxy.library.nu.edu.kz:2048/login?url=$@
 http://ezproxy.gsom.pu.ru:2048/login?url=$@
 http://libproxy.temple.edu/login?url=$@
+http://library.tru.ca/cgi-bin/ezprox/ezproxylogin?url=$@
