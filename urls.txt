@@ -861,3 +861,4 @@ http://ezproxy.nioga.org/login?url=$@
 https://ezproxy.hec.fr/login?url=$@
 http://ezproxy.jyu.fi/login?url=$@
 http://ezproxy.hancockcollege.edu:3048/login?url=$@
+http://www.ezplib.ukm.my/login?url=$@
