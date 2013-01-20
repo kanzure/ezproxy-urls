@@ -907,3 +907,6 @@ https://lib2.bvu.edu/login?url=$@
 http://lib.pepperdine.edu/login?url=$@
 http://library2.csumb.edu:2048/login?url=$@
 http://library.emmanuel.edu:2048/login?url=$@
+https://www.acu.edu:2443/login?qurl=$@
+http://libproxy.adelphi.edu:2048/login?url=$@
+http://ezproxy1.allegheny.edu:2048/login?url=$@
