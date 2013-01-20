@@ -891,3 +891,4 @@ https://login.proxy.wexler.hunter.cuny.edu/login?url=$@
 https://login.ezlibproxy.unisa.edu.au/login?url=$@
 https://login.proxy.libraries.uc.edu/login?url=$@
 https://login.libproxy.library.wmich.edu/login?url=$@
+https://login.dax.lib.unf.edu/login?url=$@
